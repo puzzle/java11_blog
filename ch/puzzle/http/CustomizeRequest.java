@@ -24,7 +24,6 @@ import ch.puzzle.http.util.ResponseHelper;
  * To run getWithParameters() you must install the Apache HttpComponenents library
  * from https://hc.apache.org/downloads.cgi
  *
- * @author jean-claude.brantschen
  */
 public class CustomizeRequest {
 

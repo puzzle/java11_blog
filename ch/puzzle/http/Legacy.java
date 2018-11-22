@@ -9,8 +9,7 @@ import java.net.URLConnection;
 import java.util.stream.Collectors;
 
 /**
- * Reading data form URLs before Java 9.
- *
+ * Reading data form URLs before Java 11.
  */
 public class Legacy {
 

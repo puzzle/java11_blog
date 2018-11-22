@@ -24,7 +24,6 @@ import ch.puzzle.http.util.ResponseHelper;
  * To run the examples, you must have a running proxy at port 8080. You can install and run
  * the proxy from https://mitmproxy.org
  *
- * @author jean-claude.brantschen
  */
 public class CustomizeClient {
 

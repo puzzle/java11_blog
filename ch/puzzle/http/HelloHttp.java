@@ -11,7 +11,7 @@ import ch.puzzle.http.util.ResponseHelper;
 import ch.puzzle.http.util.SimpleResponseHelper;
 
 /**
- * Basic usage of the Java 9 httpClient API.
+ * Basic usage of the Java 11 httpClient API.
  *
  * <li>make an http GET request</li>
  * <li>download an html page</li>

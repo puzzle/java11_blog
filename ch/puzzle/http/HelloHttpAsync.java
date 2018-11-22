@@ -9,7 +9,7 @@ import java.util.concurrent.CompletableFuture;
 import ch.puzzle.http.util.ResponseHelper;
 
 /**
- * Make an asynchronous http GET request using the Java 9 httpClient API.
+ * Make an asynchronous http GET request using the Java 11 httpClient API.
  */
 public class HelloHttpAsync {
 
